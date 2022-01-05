@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	
+	<title>O-ZONE GLO ACADEMY</title>
+</head>
+<style>
+	body{
+		height: 100vh;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.container{
+		
+		width: 60%;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+		justify-content: center;
+	}
+	a{
+		width: 30%;
+		margin: 10px;
+		
+	}
+	.input-group span{
+		font-size: 40px;
+	}
+	.rad{
+		border-radius: 20px;
+	}
+	.progr{
+		display: none;
+	}
+	.progr progress{
+		width: 100%;
+		/* display: none; */
+	}
+	.progr span{
+		font-size: 20px;
+		/* display: none; */
+	}
+	#start{
+		display: none;
+	}
+	.res{
+		display: none;
+	}
+	.res span{
+		font-size: 20px;
+	}
+</style>
+<body>
+	<div class="input-group container">
+		<span>Welcome</span>
+	</div>
+	<div class="container buttons">
+		<a name="" id="create" class="btn btn-primary rad" href="#" role="button">
+			Create db
+		</a>
+		<a name="" id="start" class="btn btn-primary rad" href="#" role="button">
+			Write values
+		</a>
+	</div>
+	<div class="progr">
+		<span>Loading... Press F12 to open console</span><br>
+		<progress></progress>
+	</div>
+	<div class="res">
+		<span class="badge badge-primary">Good! You all done</span>
+		
+	</div>
+	<script src="../jquery-3.6.0.js"></script>
+	<script src="../index2.js"></script>
+</body>
+
+</html>
