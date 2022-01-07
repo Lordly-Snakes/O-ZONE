@@ -8,3 +8,5 @@ Example work:
 ![745d1193ebf6fab51b1c68bfdd618fd04f96f546](https://user-images.githubusercontent.com/57843891/148521023-34541d84-3f17-446e-bfe1-85241bd36078.gif)
 Example working cart:
 ![fc576961eeaddf9e92b10f1d94796e175d64a58b](https://user-images.githubusercontent.com/57843891/148521776-3b84795d-8ca1-4098-a699-713c4e11fb45.gif)
+Filtered goods:
+![8bb46cbdc12ff9f0a3ec7aa8771e70fb3b322d8f](https://user-images.githubusercontent.com/57843891/148525823-8dc6833f-e262-467c-81bc-1f8cb1c4ace6.gif)
