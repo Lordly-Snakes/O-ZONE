@@ -533,7 +533,7 @@ class MainWindow {
             data: { "filterType": JSON.stringify(filterType) },
             success: data => {
                 // Если длина массива товаров больше нуля то выводим карточки на экран иначе выводим соответствующую надпись
-                data.goods.length > 0 ? this.display(data.goods) : showMessage("Ничего не найдено");
+                data.goods.length > 0 ? this.display(data.goods) : this.showMessage("Ничего не найдено");
             },
             error: er => {
                 console.log(er.responseText);
