@@ -6,3 +6,5 @@ menu categorys:
 ![image](https://user-images.githubusercontent.com/57843891/148520091-fbe31d98-4ccd-41e3-9041-29efea0d232e.png)
 Example work:
 ![745d1193ebf6fab51b1c68bfdd618fd04f96f546](https://user-images.githubusercontent.com/57843891/148521023-34541d84-3f17-446e-bfe1-85241bd36078.gif)
+Example working cart:
+![fc576961eeaddf9e92b10f1d94796e175d64a58b](https://user-images.githubusercontent.com/57843891/148521776-3b84795d-8ca1-4098-a699-713c4e11fb45.gif)
