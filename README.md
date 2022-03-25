@@ -1,5 +1,5 @@
 # O-ZONE
-this web-site use styles O-ZONE Glo Academy's, but code is completely mine.  
+this web-site use styles O-ZONE Glo Academy's
 main page:
 ![main page](https://user-images.githubusercontent.com/57843891/148520039-084e5e92-1a19-4bd8-82c5-29efbef0b8e7.png)
 menu categorys:
